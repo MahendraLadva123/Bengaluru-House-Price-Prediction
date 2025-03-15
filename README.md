@@ -16,9 +16,6 @@ A web application to predict house prices in Bengaluru using a machine learning 
 - [Usage](#usage)
 - [Model Training](#model-training)
 - [Screenshot](#screenshot)
-- [Contributing](#contributing)
-- [License](#license)
-
 ---
 
 ## Overview
@@ -37,13 +34,11 @@ This project is a **Bengaluru House Price Prediction** application built with Fl
 ---
 
 ## Project Structure
-
+---
 Bengaluru-House-Price-Prediction/ ├── app.py # Flask application file ├── Bengaluru price prediction.ipynb # Notebook for model training and exploration ├── bengaluru_house_prices.csv # Raw dataset ├── cleaned_data.csv # Preprocessed dataset ├── model1.pkl # Serialized machine learning model ├── index.html # Frontend template for the web app ├── README.md # Project documentation └── Output.png # Screenshot of the application UI
-
+---
 
 ---
-## Screenshot
-![App Screenshot](Output.png)
 
 ## Installation & Setup
 
@@ -98,23 +93,7 @@ The steps for training are available in `Bengaluru price prediction.ipynb`:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! To contribute:  
-
-1️⃣ Fork the repository.  
-2️⃣ Create a new branch (`feature-branch`).  
-3️⃣ Make your changes and commit (`git commit -m "Your message"`).  
-4️⃣ Push your changes (`git push origin feature-branch`).  
-5️⃣ Open a pull request.
-
 ---
-
-## 📜 License
-
-This project is **MIT Licensed**. See the [LICENSE](LICENSE) file for details.
-
+## Screenshot
+![App Screenshot](Output.png)
 ---
-
-✅ **This Markdown file is properly formatted for GitHub!** 🚀 Let me know if you need modifications! 😊  
-
