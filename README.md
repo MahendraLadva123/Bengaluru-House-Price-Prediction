@@ -68,3 +68,53 @@ python app.py
 ```bash
 http://127.0.0.1:5000/
 ```
+
+
+---
+
+## 🚀 Usage
+
+1️⃣ **Select Location** → Choose the area from the dropdown menu.  
+2️⃣ **Enter Square Footage** → Provide the total area in square feet.  
+3️⃣ **Enter Bathrooms & BHK** → Input the number of bathrooms and BHKs.  
+4️⃣ **Click "Predict Price"** → Get the estimated house price instantly.
+
+---
+
+## 📊 Model Training
+
+The house price prediction model is trained using **Linear Regression**.  
+The steps for training are available in `Bengaluru price prediction.ipynb`:
+
+- **Data Cleaning**: Removing missing values, encoding categorical data, handling outliers.
+- **Feature Engineering**: Extracting price per square foot, normalizing data.
+- **Training Process**:
+  - **Algorithm Used**: Linear Regression
+  - **Libraries**: Scikit-Learn, Pandas, NumPy
+  - **Model Performance**: 
+    - **R² Score**: XX.X%
+    - **Mean Absolute Error (MAE)**: X.XX
+- **Model Deployment**: The trained model is serialized using `pickle` and stored as `model1.pkl`.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! To contribute:  
+
+1️⃣ Fork the repository.  
+2️⃣ Create a new branch (`feature-branch`).  
+3️⃣ Make your changes and commit (`git commit -m "Your message"`).  
+4️⃣ Push your changes (`git push origin feature-branch`).  
+5️⃣ Open a pull request.
+
+---
+
+## 📜 License
+
+This project is **MIT Licensed**. See the [LICENSE](LICENSE) file for details.
+
+---
+
+✅ **This Markdown file is properly formatted for GitHub!** 🚀 Let me know if you need modifications! 😊  
+
