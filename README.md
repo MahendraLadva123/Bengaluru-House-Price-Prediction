@@ -67,7 +67,7 @@ http://127.0.0.1:5000/
 
 ---
 
-## 🚀 Usage
+## Usage
 
 1️⃣ **Select Location** → Choose the area from the dropdown menu.  
 2️⃣ **Enter Square Footage** → Provide the total area in square feet.  
@@ -76,7 +76,7 @@ http://127.0.0.1:5000/
 
 ---
 
-## 📊 Model Training
+## Model Training
 
 The house price prediction model is trained using **Linear Regression**.  
 The steps for training are available in `Bengaluru price prediction.ipynb`:
