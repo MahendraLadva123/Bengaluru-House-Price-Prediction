@@ -11,7 +11,6 @@ A web application to predict house prices in Bengaluru using a machine learning 
 
 - [Overview](#overview)
 - [Features](#features)
-- [Project Structure](#project-structure)
 - [Installation & Setup](#installation--setup)
 - [Usage](#usage)
 - [Model Training](#model-training)
@@ -33,7 +32,6 @@ This project is a **Bengaluru House Price Prediction** application built with Fl
 
 ---
 
----
 
 ## Installation & Setup
 
@@ -86,7 +84,6 @@ The steps for training are available in `Bengaluru price prediction.ipynb`:
     - **Mean Absolute Error (MAE)**: X.XX
 - **Model Deployment**: The trained model is serialized using `pickle` and stored as `model1.pkl`.
 
----
 
 ---
 ## Screenshot
