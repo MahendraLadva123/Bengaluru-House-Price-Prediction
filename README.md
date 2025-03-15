@@ -42,6 +42,8 @@ Bengaluru-House-Price-Prediction/ ├── app.py # Flask application file ├�
 
 
 ---
+## Screenshot
+![App Screenshot](Output.png)
 
 ## Installation & Setup
 
