@@ -35,7 +35,14 @@ This project is a **Bengaluru House Price Prediction** application built with Fl
 
 ## Project Structure
 ---
-Bengaluru-House-Price-Prediction/ ├── app.py # Flask application file ├── Bengaluru price prediction.ipynb # Notebook for model training and exploration ├── bengaluru_house_prices.csv # Raw dataset ├── cleaned_data.csv # Preprocessed dataset ├── model1.pkl # Serialized machine learning model ├── index.html # Frontend template for the web app ├── README.md # Project documentation └── Output.png # Screenshot of the application UI
+# Bengaluru-House-Price-Prediction/ ├── app.py 
+# Flask application file ├── Bengaluru price prediction.ipynb 
+# Notebook for model training and exploration ├── bengaluru_house_prices.csv 
+# Raw dataset ├── cleaned_data.csv # Preprocessed dataset ├── model1.pkl 
+# Serialized machine learning model ├── index.html 
+# Frontend template for the web app ├── README.md 
+# Project documentation └── Output.png 
+# Screenshot of the application UI
 ---
 
 ---
