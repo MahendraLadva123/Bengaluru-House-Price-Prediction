@@ -48,22 +48,22 @@ Bengaluru-House-Price-Prediction/ ├── app.py # Flask application file ├�
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Bengaluru-House-Price-Prediction.git
-cd Bengaluru-House-Price-Prediction
+  git clone https://github.com/your-username/Bengaluru-House-Price-Prediction.git
+  cd Bengaluru-House-Price-Prediction
 
 
 Ensure you have Python 3.7+ installed. Then, install the required libraries:
 ```bash
-pip install flask pandas scikit-learn numpy
+  pip install flask pandas scikit-learn numpy
 
 ```bash
-pip install -r requirements.txt
+  pip install -r requirements.txt
 
 ```bash
-python app.py
+  python app.py
 
 ```bash
-python app.py
+  python app.py
 
 ```bash
-http://127.0.0.1:5000/
+  http://127.0.0.1:5000/
