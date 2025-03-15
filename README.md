@@ -51,14 +51,15 @@ Bengaluru-House-Price-Prediction/ ├── app.py # Flask application file ├�
 git clone https://github.com/your-username/Bengaluru-House-Price-Prediction.git
 cd Bengaluru-House-Price-Prediction
 
-```bash
-pip install flask pandas scikit-learn numpy
+2. Install Dependencies
+  ```bash
+  pip install flask pandas scikit-learn numpy
 
-```bash
-pip install -r requirements.txt
+  ```bash
+  pip install -r requirements.txt
 
-```bash
-python app.py
+  ```bash
+  python app.py
 
-```bash
-http://127.0.0.1:5000/
+  ```bash
+  http://127.0.0.1:5000/
