@@ -49,21 +49,22 @@ Bengaluru-House-Price-Prediction/ ├── app.py # Flask application file ├�
 
 ### 1. Clone the Repository
 
-```bash
+```
 git clone https://github.com/your-username/Bengaluru-House-Price-Prediction.git
 cd Bengaluru-House-Price-Prediction
-
+```
 2. Install Dependencies:
 ```bash
 pip install -r requirements.txt
-
+```
 ```bash
 pip install flask pandas scikit-learn numpy
-
+```
 3. Run Flask Application:
 ```bash
 python app.py
-
+```
 4 Open Web App in Browser:
 ```bash
 http://127.0.0.1:5000/
+```
