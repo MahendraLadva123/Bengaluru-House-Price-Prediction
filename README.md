@@ -80,8 +80,7 @@ The steps for training are available in `Bengaluru price prediction.ipynb`:
   - **Algorithm Used**: Linear Regression
   - **Libraries**: Scikit-Learn, Pandas, NumPy
   - **Model Performance**: 
-    - **R² Score**: XX.X%
-    - **Mean Absolute Error (MAE)**: X.XX
+    - **R² Score**: 83%
 - **Model Deployment**: The trained model is serialized using `pickle` and stored as `model1.pkl`.
 
 
