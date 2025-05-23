@@ -38,7 +38,7 @@ This project is a **Bengaluru House Price Prediction** application built with Fl
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/your-username/Bengaluru-House-Price-Prediction.git
+git clone https://github.com/MahendraLadva123/Bengaluru-House-Price-Prediction.git
 cd Bengaluru-House-Price-Prediction
 ```
 2. Install Dependencies:
